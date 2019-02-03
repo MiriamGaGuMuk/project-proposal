@@ -1,10 +1,10 @@
 # Greener 
 
 **Miriam GaGu**
-Full-Stack Developer
+- Full-Stack Developer
 
 **Tipo de  App**
-Web
+- Web
 
 # Tecnologías
 1. HTML
@@ -34,15 +34,15 @@ Web
 
 ### Routes
 ##### Client Routes
-GET #/
-GET #/Login
-GET #/grenner
+- GET #/
+- GET #/Login
+- GET #/grenner
 
 ##### API Routes
 * LogIn
-GET ~/api/acounts
-POST ~/api/accounts/register
-POST ~/api/accounts/login
+- GET ~/api/acounts
+- POST ~/api/accounts/register
+- POST ~/api/accounts/login
 
 * Main Perfil
 GET ~/api/perfil
@@ -143,6 +143,13 @@ Como un segundo alcance se plantearon las siguientes hisotrias:
 **Prototipado**
 
 A continuación mostraremos el primer sketch, pensando primero en el dispositivo móvil, pues es más cómodo para el usuario accesar a través de éste a una app.
+
+<img align="center" src="imagenes-ux/Login.png"/>
+<img align="center" src="imagenes-ux/LogInMail.png"/>
+<img align="center" src="imagenes-ux/facebooklogin.png"/>
+<img align="center" src="imagenes-ux/Perfil.png"/>
+<img align="center" src="imagenes-ux/perfilSidebar.png"/>
+
 
 <img align="center" src="imagenes-ux/6.jpeg"/> 
 
