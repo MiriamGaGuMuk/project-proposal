@@ -1,8 +1,43 @@
-# Greener
+# Greener 
+
+**Miriam GaGu**
+Full-Stack Developer
+
+**Tipo de  App**
+Web
+
+# Tecnologías
+1. HTML
+2. CSS
+    - Bulma 
+3. NodeJS
+    - Morgan
+    - Express
+    - Mongodb
+    - Mongoose
+    - Robo3T
+4. Reactjs
+    - Superagent
+5. Java Script
+6. Deply con Heroku
+7. Mlab
+
+# Instructivo
+
+Para utilizar Greener puedes acceder desde tu cuenta de Google o Facebook clickando en los botones correspondientes o bien puedes registrarte con otra cuenta de correo e iniciar sesión. Comparte publicaciones con tus amigos escribiendo en el input y dando click en publicar. Así mismo:
+ * Si estás logueado con una cuenta que registraste en tu nombre aparecerá tu mail.
+ * Es necesario escribir "algo" para poder publicar.
+ * Puedes eliminar tus posts o los de tus amigos dando click en BORRAR.
+ * Puedes editar tus posts o los de tus amigos dando click en el botón "EDITAR"; después edita tu texto y da click en el botón GUARDAR para actualizar tu post. 
+ * Para ver el conteo de favoritos en la publicación y agregar un favorito, da click en el corazón.
+ * Si deseas salir de la aplicación da click en "LOG OUT". 
+ * Disfruta y ayuda a tus amigos a cambiar su alimentación por una vida más saludable. Agrega a "Greener" contenido que tus amigos y tú comparten sobre alimentación saludable con recetas sencillas.
+
+# Descripción
 
 **Introducción: ¿qué es una red social?**
 
-Para poder entender lo que nuestro cliente solicita y con ello empatar nuestras ideas sobre el producto, debemos aterrizar el concepto y los elementos de una red social. Hoy en día todos utilizamos distintas redes sociales: Instagram, Facebook, twitter, entre las más conocidas. De éstas podemos observar que son servicios centrados en los intereses del usuario y sus relaciones personales. 
+Para poder entender lo que nuestro cliente solicita y con ello empatar nuestras ideas sobre el producto, debemos aterrizar el concepto y los elementos de una red social. Hoy en día todos utilizamos distintas redes sociales: Instagram, Facebook, Twitter, entre las más conocidas. De éstas podemos observar que son servicios centrados en los intereses del usuario y sus relaciones personales. 
 
 Una red social nos permite crear un perfil (público o privado)  para poder ser identificados por otros. Nos permiten compartir información de nuestro interés, publicar información en nuestro perfil, publicar en perfiles de nuestros conocidos; evaluar publicaciones y ser evaluados. Permiten  la posibilidad de interacción con otra persona, fomentan y fortalecen las relaciones entre usuarios creando comunidades con intereses similares o relaciones interpersonales en común.
 
@@ -19,12 +54,10 @@ Para tener una mejor idea de la problemática realizamos un sondeo para delimita
 <img align="center" src="imagenes-ux/3.jpeg"/>
 
 
-Derivado de esto consideramos conveniente realizar una serie de preguntas en torno a estos resultados, los cuales arrojaron lo siguiente en este
+Derivado de esto considere conveniente realizar una serie de preguntas en torno a estos resultados, los cuales arrojaron lo siguiente en este
 [Cuestionario](https://docs.google.com/forms/d/1y8orWsIOjkrOVd1Yfd35Uo6qiF26XfBipm9aP9Tksmw/edit#responses)
 
-
 Lo más destacado de ésta encuesta, se mencionan en los siguientes puntos:
-
 
 * Nuestros encuestados están en un rango de edad de entre los  24 a los 35 años.
 * Trabajan y/o  estudian tiempo completo.
@@ -34,11 +67,9 @@ Lo más destacado de ésta encuesta, se mencionan en los siguientes puntos:
 
  A pesar de que la mayoría lleva su comida al trabajo o escuela, consideran que no son las mejores opciones y esto es porque no conocen más variantes a la hora de la preparación. 
 
-
 Por ello pensamos en crear una red social que brinde un espacio para personas que busquen un cambio significativo en su alimentación de la manera más creativa, atractiva y sencilla.
 
 Nos dimos a la tarea de  entender las motivaciones y  propósitos de nuestros usuarios para brindar en conjunto con ellos herramientas que puedan ayudarlos a sustentar buenas prácticas alimenticias haciéndolos partícipes en este proceso. Con esto pretendemos dar apoyo a los usuarios que buscan mejorar su calidad de vida pensando en el contexto en el que se desenvuelven día a día.
-
 
 # User Stories
 
@@ -83,9 +114,7 @@ Como un segundo alcance se plantearon las siguientes hisotrias:
 
 A continuación mostraremos el primer sketch, pensando primero en el dispositivo móvil, pues es más cómodo para el usuario accesar a través de éste a una app.
 
-
 <img align="center" src="imagenes-ux/6.jpeg"/> 
-
 
 ## Version Desktop
 
@@ -174,13 +203,4 @@ En su mayoria, las aplicaciones usan colores y lenguaje muy sencillo de entender
 <img align="center" src="imagenes-ux/mysugr-logbook-phone.png"/>
 <img align="center" src="imagenes-ux/selecting-2Harvest.png"/>
 
-# Instructivo
-
-Para utilizar Greener puedes acceder desde tu cuenta de Google o Facebook clickando en los botones correspondientes o bien puedes registrarte con otra cuenta de correo e iniciar sesión. Comparte publicaciones con tus amigos escribiendo en el input y dando click en publicar. Así mismo:
- * Si estás logueado con una cuenta que registraste en tu nombre aparecerá tu mail.
- * Es necesario escribir "algo" para poder publicar.
- * Puedes eliminar tus posts o los de tus amigos dando click en BORRAR.
- * Puedes editar tus posts o los de tus amigos dando click en el botón "EDITAR"; después edita tu texto y da click en el botón GUARDAR para actualizar tu post. 
- * Para ver el conteo de favoritos en la publicación y agregar un favorito, da click en el corazón.
- * Si deseas salir de la aplicación da click en "LOG OUT". 
- * Disfruta y ayuda a tus amigos a cambiar su alimentación por una vida más saludable. Agrega a "Greener" contenido que tus amigos y tú comparten sobre alimentación saludable con recetas sencillas.  
+  
