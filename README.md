@@ -40,7 +40,7 @@ Por ello pensamos en crear una red social que brinde un espacio para personas qu
 Nos dimos a la tarea de  entender las motivaciones y  propósitos de nuestros usuarios para brindar en conjunto con ellos herramientas que puedan ayudarlos a sustentar buenas prácticas alimenticias haciéndolos partícipes en este proceso. Con esto pretendemos dar apoyo a los usuarios que buscan mejorar su calidad de vida pensando en el contexto en el que se desenvuelven día a día.
 
 
-#User Stories
+# User Stories
 
 **¿Quiénes son los principales usuarios?**
 
@@ -87,7 +87,7 @@ A continuación mostraremos el primer sketch, pensando primero en el dispositivo
 <img align="center" src="imagenes-ux/6.jpeg"/> 
 
 
-Version Desktop
+## Version Desktop
 
 <img align="center" src="imagenes-ux/4.jpeg"/>
 <img align="center" src="imagenes-ux/5.jpeg"/>
@@ -117,7 +117,7 @@ En marketing:
 
 También hemos  incorporado el color blanco como fondo; éste es asociado mayormente a tópicos relacionados con la pureza, inocencia, optimismo, frescura, limpieza y simplicidad. En el campo de Marketing el color se asocia con una marca amigable, alegre y confiable. Utilizamos fuentes de texto "ligeras" tanto en el logotipo como en los textos de la aplicación con el objetivo de armonizar la interfaz con nuestro concepto.
 
-#Benchmark
+# Benchmark
 
  Realizamos un bechmark específicamente con las redes sociales que giran entorno a temas alimenticios : [benchmark](https://docs.google.com/spreadsheets/d/14YIrKK5kG2i1GkdOf4_KPQNa5-7Ytr2HgYstnk-Ihzs/edit#gid=1389167076)
  Así mismo encontramos las 15 apps (no necesariamente redes sociales) más utilizadas para promover una buena alimentación. Toda se pueden descargar y probar en smartphone o tableta. Todas ellas ayudan a conocer más a fondo el mundo de la comida y a descubrir qué alimentos son más saludables, cuál es su origen, cómo cocinarlos o incluso conocer qué ejercicio físico es necesario para “quemar” esa golosina que te acabas de comer.
