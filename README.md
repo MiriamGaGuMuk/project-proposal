@@ -22,6 +22,36 @@ Web
 6. Deply con Heroku
 7. Mlab
 
+# Roadmap
+ 1. Los Usuarios podran coementar publicaciones de amigos
+ 2. Los usuarios podran quitar su like
+ 3. Los usuarios podran ver su última publicación al principio de la seeción general
+ 4. Los usuarios tendran su perfil personal
+
+# Data Model
+
+<img align="center" src="imagenes-ux/basededartosrelacional.png"/>
+
+### Routes
+##### Client Routes
+GET #/
+GET #/Login
+GET #/grenner
+
+##### API Routes
+* LogIn
+GET ~/api/acounts
+POST ~/api/accounts/register
+POST ~/api/accounts/login
+
+* Main Perfil
+GET ~/api/perfil
+POST ~/api/perfil/{userId}
+PUT ~/api/perfil/{commentId}
+DELETE ~/api/perfil/{commentId}
+POST ~api/perfil/{commentId} (Likes)
+
+
 # Instructivo
 
 Para utilizar Greener puedes acceder desde tu cuenta de Google o Facebook clickando en los botones correspondientes o bien puedes registrarte con otra cuenta de correo e iniciar sesión. Comparte publicaciones con tus amigos escribiendo en el input y dando click en publicar. Así mismo:
