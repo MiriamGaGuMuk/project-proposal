@@ -144,7 +144,7 @@ Como un segundo alcance se plantearon las siguientes hisotrias:
 
 A continuación mostraremos el primer sketch, pensando primero en el dispositivo móvil, pues es más cómodo para el usuario accesar a través de éste a una app.
 
-<img align="center" src="imagenes-ux/Login.png"/>
+<img align="center" src="imagenes-ux/LogIn.png"/>
 <img align="center" src="imagenes-ux/LogInMail.png"/>
 <img align="center" src="imagenes-ux/facebooklogin.png"/>
 <img align="center" src="imagenes-ux/Perfil.png"/>
@@ -185,7 +185,7 @@ También hemos  incorporado el color blanco como fondo; éste es asociado mayorm
 
 # Benchmark
 
- Realizamos un bechmark específicamente con las redes sociales que giran entorno a temas alimenticios : [benchmark](https://docs.google.com/spreadsheets/d/14YIrKK5kG2i1GkdOf4_KPQNa5-7Ytr2HgYstnk-Ihzs/edit#gid=1389167076)
+ Realizamos un bechmark específicamente con las redes sociales que giran entorno a temas alimenticios : [benchmark](https://docs.google.com/spreadsheets/d/1z6LMFPd4SrNTczKcNp2ocDZumltcUedXcLHEHlAKnZs/edit?usp=sharing)
  Así mismo encontramos las 15 apps (no necesariamente redes sociales) más utilizadas para promover una buena alimentación. Toda se pueden descargar y probar en smartphone o tableta. Todas ellas ayudan a conocer más a fondo el mundo de la comida y a descubrir qué alimentos son más saludables, cuál es su origen, cómo cocinarlos o incluso conocer qué ejercicio físico es necesario para “quemar” esa golosina que te acabas de comer.
 
 ### 1 Harvest 
