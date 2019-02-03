@@ -45,11 +45,11 @@
 - POST ~/api/accounts/login
 
 * Main Perfil
-GET ~/api/perfil
-POST ~/api/perfil/{userId}
-PUT ~/api/perfil/{commentId}
-DELETE ~/api/perfil/{commentId}
-POST ~api/perfil/{commentId} (Likes)
+- GET ~/api/perfil
+- POST ~/api/perfil/{userId}
+- PUT ~/api/perfil/{commentId}
+- DELETE ~/api/perfil/{commentId}
+- POST ~api/perfil/{commentId} (Likes)
 
 
 # Instructivo
