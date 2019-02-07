@@ -4,7 +4,7 @@
 - Full-Stack Developer
 
 **Tipo de  App**
-- Web
+- Web Application
 
 # Tecnologías :pushpin:
 1. HTML
