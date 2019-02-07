@@ -16,6 +16,7 @@
     - Mongodb
     - Mongoose
     - Robo3T
+    -Passport(login redes sociales)
 4. Reactjs
     - Superagent
 5. Java Script
