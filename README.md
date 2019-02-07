@@ -24,11 +24,29 @@
 7. Mlab
 8. Twilio
 
+# Features (MVP)
+1. User Log In View
+2. Perfil principal para todos los usuarios (Users View)
+3. User puede comentar en el perfil principal (Profile view)
+4. User puede cambiara el comentario
+5. User puede borrar el comentario
+6. User puede dar like a todos los comentarios
+7. User puede agregar fotos a su comentario
+8. User Profile view (Perfil usuraio individual)
+9. User puede ver sus comentarios compartidos
+10. User puede editar sus comentarios 
+11. User puede borrar sus comentarios
+12. Sólo el ADMIN puede borrar comentarios de otros Usuarios
+13. Los usuarios pueden quitar sus likes
+
+
 # Roadmap (future features) :pushpin:
  1. Los Usuarios podran comentar publicaciones de amigos
- 2. Los usuarios podran quitar su like
- 3. Los usuarios podran ver su última publicación al principio de la sección general
- 4. Los usuarios tendran su perfil personal
+ 2. Los usuarios podran ver su última publicación al principio de la sección general
+ 3. Los usuarios podran comentar con fotos las publicaciones de sus amigos
+ 4. Los usuarios podran hacer privados sus perfiles
+ 5. Los usuarios podran postear videos en los comentarios
+ 
 
 # Data Model :pushpin:
 
@@ -54,6 +72,19 @@
 - DELETE ~/api/perfil/:commentId
 - POST ~api/perfil/:commentI/likes
 
+
+|Category|Name|Points|
+|-|-|-|
+|Planning and Design|||
+||Project Planning|Required|
+||Domain Registration|10|
+||Responsive|20|
+||Twilio|10|
+||CSS-in-JS|10|
+||Passport|30|
+|Presentation|||
+||Uses Time Effectively|10|
+||Cool Slides|10|
 
 # Instructivo :pushpin:
 
