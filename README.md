@@ -6,7 +6,7 @@
 **Tipo de  App**
 - Web
 
-# Tecnologías
+# Tecnologías :pushpin:
 1. HTML
 2. CSS
     - Bulma 
@@ -22,17 +22,17 @@
 6. Deply con Heroku
 7. Mlab
 
-# Roadmap (future features)
+# Roadmap (future features) :pushpin:
  1. Los Usuarios podran comentar publicaciones de amigos
  2. Los usuarios podran quitar su like
  3. Los usuarios podran ver su última publicación al principio de la sección general
  4. Los usuarios tendran su perfil personal
 
-# Data Model
+# Data Model :pushpin:
 
 <img align="center" src="imagenes-ux/basededartosrelacional.png"/>
 
-### Routes
+### Routes :pushpin:
 ##### Client Routes
 - GET #/
 - GET #/Login
@@ -52,7 +52,7 @@
 - POST ~api/perfil/{commentId} (Likes)
 
 
-# Instructivo
+# Instructivo :pushpin:
 
 Para utilizar Greener puedes acceder desde tu cuenta de Google o Facebook clickando en los botones correspondientes o bien puedes registrarte con otra cuenta de correo e iniciar sesión. Comparte publicaciones con tus amigos escribiendo en el input y dando click en publicar. Así mismo:
  * Si estás logueado con una cuenta que registraste en tu nombre aparecerá tu mail.
@@ -63,7 +63,7 @@ Para utilizar Greener puedes acceder desde tu cuenta de Google o Facebook clicka
  * Si deseas salir de la aplicación da click en "LOG OUT". 
  * Disfruta y ayuda a tus amigos a cambiar su alimentación por una vida más saludable. Agrega a "Greener" contenido que tus amigos y tú comparten sobre alimentación saludable con recetas sencillas.
 
-# Descripción
+# Descripción :pushpin:
 
 **Introducción: ¿qué es una red social?**
 
@@ -101,7 +101,7 @@ Por ello pensamos en crear una red social que brinde un espacio para personas qu
 
 Nos dimos a la tarea de  entender las motivaciones y  propósitos de nuestros usuarios para brindar en conjunto con ellos herramientas que puedan ayudarlos a sustentar buenas prácticas alimenticias haciéndolos partícipes en este proceso. Con esto pretendemos dar apoyo a los usuarios que buscan mejorar su calidad de vida pensando en el contexto en el que se desenvuelven día a día.
 
-# User Stories
+# User Stories :pushpin:
 
 **¿Quiénes son los principales usuarios?**
 
@@ -118,27 +118,27 @@ Tener una fuente de consulta, aportar a esa fuente y ser un participante activo 
 Así mismo planteamos los objetivos de los usuarios con respecto al producto utilizando las historais de usuario.
 
 * :bust_in_silhouette:Yo usuari@ quiero poder registrarme en 'Greener'
-* Yo usuario quiero poder iniciar sesión con facebook o google para ser parte de 'Greener'
-* Yo como usuari@ logueado quiero poder hacer publicaciones para comunicarme con personas como yo que busquen una mejora en su alimentación sin tener mucho tiempo para preparar alimentos. 
-* Yo como usuari@ quiero poder contribuir y recibir  tips o recetas, videos y fotos, para ayudarnos a mejorar nuestra alimentación, lo cual nos brindará motivación y una mejor calidad de vida
-* Yo como usuari@ quiero poder dar  y recibir like a las publicaciones de mis amigos.
-* Yo como usuari@ quiero poder ver cuántos  likes/Estrella (o similar) tiene una publicación.
-* Yo usuari@ quiero poder eliminar un post/publicación específico.
-* Yo usuari@ quiero darle click en el botón editar, cambiar el texto, imagen, post e imagen, o lo que contenga la publicación. 
-* Yo usuari@ quiero que al recargar la página pueda ver los textos editados y publicaciones anteriores (persistencia).
-* Yo usiari@ quiero poder cerrar sesión.
+* :bust_in_silhouette:Yo usuario quiero poder iniciar sesión con facebook o google para ser parte de 'Greener'
+* :bust_in_silhouette:Yo como usuari@ logueado quiero poder hacer publicaciones para comunicarme con personas como yo que busquen una mejora en su alimentación sin tener mucho tiempo para preparar alimentos. 
+* :bust_in_silhouette:Yo como usuari@ quiero poder contribuir y recibir  tips o recetas, videos y fotos, para ayudarnos a mejorar nuestra alimentación, lo cual nos brindará motivación y una mejor calidad de vida
+* :bust_in_silhouette:Yo como usuari@ quiero poder dar  y recibir like a las publicaciones de mis amigos.
+* :bust_in_silhouette:Yo como usuari@ quiero poder ver cuántos  likes/Estrella (o similar) tiene una publicación.
+* :bust_in_silhouette:Yo usuari@ quiero poder eliminar un post/publicación específico.
+* :bust_in_silhouette:Yo usuari@ quiero darle click en el botón editar, cambiar el texto, imagen, post e imagen, o lo que contenga la publicación. 
+* :bust_in_silhouette:Yo usuari@ quiero que al recargar la página pueda ver los textos editados y publicaciones anteriores (persistencia).
+* :bust_in_silhouette:Yo usiari@ quiero poder cerrar sesión.
 
 Como un segundo alcance se plantearon las siguientes hisotrias:
 
-* Yo usuari@ quiero poder agregar nuevos amigos
-* Yo usuari@ quiero poder aceptar solicitudes de amigos
-* Yo usuari@ quiero poder eliminar amigos
-* Yo usuari@ quiero poder poder filtrar los posts sólo para mis amigos y para todo público.
-* Yo usuari@ quiero poder publicar solo para mis amigos
-* Yo usuari@ quiero poder poder publicar públicamente, visible para todos los usuarios de la red social.
-* Yo usuari@ quiero poder enviar mensajes privados a mis amigos.
+* :bust_in_silhouette:Yo usuari@ quiero poder agregar nuevos amigos
+* :bust_in_silhouette:Yo usuari@ quiero poder aceptar solicitudes de amigos
+* :bust_in_silhouette:Yo usuari@ quiero poder eliminar amigos
+* :bust_in_silhouette:Yo usuari@ quiero poder poder filtrar los posts sólo para mis amigos y para todo público.
+* :bust_in_silhouette:Yo usuari@ quiero poder publicar solo para mis amigos
+* :bust_in_silhouette:Yo usuari@ quiero poder poder publicar públicamente, visible para todos los usuarios de la red social.
+* :bust_in_silhouette:Yo usuari@ quiero poder enviar mensajes privados a mis amigos.
 
-# Ideación
+# Ideación :pushpin:
 
 **Prototipado**
 
@@ -153,14 +153,14 @@ A continuación mostraremos el primer sketch, pensando primero en el dispositivo
 
 <img align="center" src="imagenes-ux/6.jpeg"/> 
 
-## Version Desktop
+## Version Desktop :pushpin:
 
 <img align="center" src="imagenes-ux/4.jpeg"/>
 <img align="center" src="imagenes-ux/5.jpeg"/>
 
 Así mismo elaboramos un [prototipo de alta fidelidad](https://www.figma.com/proto/cI2y8tMN0p8NghxQI8fsfBME/foodbook?node-id=4%3A2&scaling=scale-down). Cabe aclarar que en el proceso de construcción de la web app, fuimos transformando el diseño de acuerdo a los feedbacks recibidos. 
 
-### Fundamento para el protrotipado
+### Fundamento para el protrotipado :pushpin:
 
 La idea principal de nuestra red social no es sólo ofrecer, como muchas, recetas saludable, si bien se basará en esto, lo principal es crear y fomentar la autonomía de la alimentación de todo aquel que ya haya tomado este primer paso. Nuestra comunidad ayudrá con ese gran paso ofreciendo consejos e ideas de usuaros que estuvieron es esa misma situación y cómo salieron de ello.
 
@@ -183,7 +183,7 @@ En marketing:
 
 También hemos  incorporado el color blanco como fondo; éste es asociado mayormente a tópicos relacionados con la pureza, inocencia, optimismo, frescura, limpieza y simplicidad. En el campo de Marketing el color se asocia con una marca amigable, alegre y confiable. Utilizamos fuentes de texto "ligeras" tanto en el logotipo como en los textos de la aplicación con el objetivo de armonizar la interfaz con nuestro concepto.
 
-# Benchmark
+# Benchmark :pushpin:
 
  Realizamos un bechmark específicamente con las redes sociales que giran entorno a temas alimenticios : [benchmark](https://docs.google.com/spreadsheets/d/1z6LMFPd4SrNTczKcNp2ocDZumltcUedXcLHEHlAKnZs/edit?usp=sharing)
  Así mismo encontramos las 15 apps (no necesariamente redes sociales) más utilizadas para promover una buena alimentación. Toda se pueden descargar y probar en smartphone o tableta. Todas ellas ayudan a conocer más a fondo el mundo de la comida y a descubrir qué alimentos son más saludables, cuál es su origen, cómo cocinarlos o incluso conocer qué ejercicio físico es necesario para “quemar” esa golosina que te acabas de comer.
