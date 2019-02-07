@@ -44,13 +44,14 @@
 - GET ~/api/acounts
 - POST ~/api/accounts/register
 - POST ~/api/accounts/login
+- POST ~/api/accounts/logout
 
 * Main Perfil
 - GET ~/api/perfil
-- POST ~/api/perfil/{userId}
-- PUT ~/api/perfil/{commentId}
-- DELETE ~/api/perfil/{commentId}
-- POST ~api/perfil/{commentId} (Likes)
+- POST ~/api/perfil/:userId
+- PUT ~/api/perfil/:commentId
+- DELETE ~/api/perfil/:commentId
+- POST ~api/perfil/:commentI/likes
 
 
 # Instructivo :pushpin:
