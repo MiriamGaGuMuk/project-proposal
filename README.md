@@ -35,8 +35,8 @@
 
 ### Routes :pushpin:
 ##### Client Routes
-- GET #/
-- GET #/Login
+
+- POST #/Login
 - GET #/grenner
 
 ##### API Routes
