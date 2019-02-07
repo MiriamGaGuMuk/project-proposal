@@ -117,7 +117,7 @@ Tener una fuente de consulta, aportar a esa fuente y ser un participante activo 
 
 Así mismo planteamos los objetivos de los usuarios con respecto al producto utilizando las historais de usuario.
 
-* Yo usuari@ quiero poder registrarme en 'Greener'
+* :bust_in_silhouette:Yo usuari@ quiero poder registrarme en 'Greener'
 * Yo usuario quiero poder iniciar sesión con facebook o google para ser parte de 'Greener'
 * Yo como usuari@ logueado quiero poder hacer publicaciones para comunicarme con personas como yo que busquen una mejora en su alimentación sin tener mucho tiempo para preparar alimentos. 
 * Yo como usuari@ quiero poder contribuir y recibir  tips o recetas, videos y fotos, para ayudarnos a mejorar nuestra alimentación, lo cual nos brindará motivación y una mejor calidad de vida
