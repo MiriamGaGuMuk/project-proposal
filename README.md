@@ -1,6 +1,6 @@
-# Greener 
+# Greener :seedling:
 
-**Miriam GaGu**
+**Miriam GaGu** :metal:
 - Full-Stack Developer
 
 **Tipo de  App**
