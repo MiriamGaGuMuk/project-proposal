@@ -22,10 +22,10 @@
 6. Deply con Heroku
 7. Mlab
 
-# Roadmap
- 1. Los Usuarios podran coementar publicaciones de amigos
+# Roadmap (future features)
+ 1. Los Usuarios podran comentar publicaciones de amigos
  2. Los usuarios podran quitar su like
- 3. Los usuarios podran ver su última publicación al principio de la seeción general
+ 3. Los usuarios podran ver su última publicación al principio de la sección general
  4. Los usuarios tendran su perfil personal
 
 # Data Model
