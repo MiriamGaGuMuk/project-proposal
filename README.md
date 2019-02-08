@@ -60,7 +60,7 @@
 - GET #/profile
 - GET #/recipe
 - GET #/foodmap
-- logout?
+ 
 
 ##### API Routes
 * LogIn
@@ -76,15 +76,18 @@
 - DELETE ~/api/v1/comments/commentId
 - POST ~api/v1/comments/:commentId/likes
 
+
+- POST #/api/v1/logout
+
 - GET ~/api/v1/recipes
-- GET ~/api/v1/recipes/:commentId
+- GET ~/api/v1/recipes/:recipieId
 - GET ~/api/v1/recipes/:userId
-- GET ~/api/v1/recipes/:userId/:commentId
-- GET ~/api/v1/recipes/:commentId/photo
-- PUT ~/api/v1/recipes/:commentId
-- DELETE ~/api/v1/recipes/:commentId
-- PUT ~/api/v1/recipes/:commentId/photo
-- DELETE ~/api/v1/recipes/:commentId/photo
+- GET ~/api/v1/recipes/:userId/:recipieId
+- GET ~/api/v1/recipes/:recipieId/photo
+- PUT ~/api/v1/recipes/:recipieId
+- DELETE ~/api/v1/recipes/:recipietId
+- PUT ~/api/v1/recipes/:recipieId/photo
+- DELETE ~/api/v1/recipes/:recipieId/photo
 
 
 
