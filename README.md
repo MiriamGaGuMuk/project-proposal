@@ -32,10 +32,7 @@
 5. User puede borrar el comentario
 6. User puede dar like a todos los comentarios
 7. User puede agregar fotos a su comentario
-8. User Profile view (Perfil usuraio individual)
-9. User puede ver sus comentarios compartidos
-10. User puede editar sus comentarios 
-11. User puede borrar sus comentarios
+8. User Profile view (Perfil usuraio individual)(Podrá actaulizar y borrar todos sus comentarios hechos)
 12. Sólo el ADMIN puede borrar comentarios de otros Usuarios
 13. Los usuarios pueden quitar sus likes
 
@@ -66,28 +63,32 @@
 * LogIn
 - GET ~/api/v1/users
 - GET ~/api/v1/users/:userId
-- GET ~/api/v1/users/profileId
+- GET ~/api/v1/users/:userId/profiles
+- GET ~/api/v1/:userId/comments
+- GET ~/api/v1/users/:userId/commets/:commentId
+- GET ~/api/v1/user/:userId/recipes
+- GET ~/api/v1/user/:userId/recipie/:recipieId
 
 - GET ~/api/v1/comments
 - GET ~/api/v1/comments/commentId
-- GET ~/api/v1/comments/:userId
-- GET ~/api/v1/comments/:userId/:commentId
 - PUT ~/api/v1/comments/commentId
 - DELETE ~/api/v1/comments/commentId
 - POST ~api/v1/comments/:commentId/likes
 
 
-- POST #/api/v1/logout
+- POST #/api/v1/auth/logout
+- POST #/api/v1/auth/login
+- POTS #/api/v1/auth/signup
 
 - GET ~/api/v1/recipes
 - GET ~/api/v1/recipes/:recipieId
-- GET ~/api/v1/recipes/:userId
-- GET ~/api/v1/recipes/:userId/:recipieId
-- GET ~/api/v1/recipes/:recipieId/photo
+- GET ~/api/v1/recipes/:recipieId/photos
 - PUT ~/api/v1/recipes/:recipieId
 - DELETE ~/api/v1/recipes/:recipietId
-- PUT ~/api/v1/recipes/:recipieId/photo
-- DELETE ~/api/v1/recipes/:recipieId/photo
+- PUT ~/api/v1/recipes/:recipieId/photos
+- DELETE ~/api/v1/recipes/:recipieId/photos
+
+- DELETE ~/api/v1/users/:userId/profiles/:profileId
 
 
 
