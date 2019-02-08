@@ -50,7 +50,7 @@
 
 # Data Model :pushpin:
 
-<img align="center" src="imagenes-ux/basededartosrelacional.png"/>
+<img align="center" src="imagenes-ux/database.png"/>
 
 ### Routes :pushpin:
 ##### Client Routes
