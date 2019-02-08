@@ -55,36 +55,46 @@
 ### Routes :pushpin:
 ##### Client Routes
 
-- POST #/Login
-- GET #/grenner
+- POST #/login
+- GET #/
+- GET #/profile
+- GET #/recipe
+- GET #/foodmap
+- logout?
 
 ##### API Routes
 * LogIn
-- GET ~/api/acounts
-- POST ~/api/accounts/register
-- POST ~/api/accounts/login
-- POST ~/api/accounts/logout
+- GET ~/api/v1/users
+- GET ~/api/v1/users/:userId
+- GET ~/api/v1/users/profileId
 
-* Main Perfil
-- GET ~/api/perfil
-- POST ~/api/perfil/:userId
-- PUT ~/api/perfil/:commentId
-- DELETE ~/api/perfil/:commentId
-- POST ~api/perfil/:commentI/likes
+- GET ~/api/v1/comments
+- GET ~/api/v1/comments/commentId
+- GET ~/api/v1/comments/:userId
+- GET ~/api/v1/comments/:userId/:commentId
+- PUT ~/api/v1/comments/commentId
+- DELETE ~/api/v1/comments/commentId
+- POST ~api/v1/comments/:commentId/likes
+
+- GET ~/api/v1/recipes
+- GET ~/api/v1/recipes/:commentId
+- GET ~/api/v1/recipes/:userId
+- GET ~/api/v1/recipes/:userId/:commentId
+- GET ~/api/v1/recipes/:commentId/photo
+- PUT ~/api/v1/recipes/:commentId
+- DELETE ~/api/v1/recipes/:commentId
+- PUT ~/api/v1/recipes/:commentId/photo
+- DELETE ~/api/v1/recipes/:commentId/photo
+
+
 
 
 |Category|Name|Points|
 |-|-|-|
-|Planning and Design|||
-||Project Planning|Required|
-||Domain Registration|10|
 ||Responsive|20|
 ||Twilio|10|
-||CSS-in-JS|10|
 ||Passport|30|
-|Presentation|||
-||Uses Time Effectively|10|
-||Cool Slides|10|
+||ToTal|60|
 
 # Instructivo :pushpin:
 
