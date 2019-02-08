@@ -35,14 +35,15 @@
 8. User Profile view (Perfil usuraio individual)(Podrá actaulizar y borrar todos sus comentarios hechos)
 12. Sólo el ADMIN puede borrar comentarios de otros Usuarios
 13. Los usuarios pueden quitar sus likes
-
+14. Vista de recomendaciones de restaurantes cercanos
+15. Los ususarios podran ver una vista detallada de una recerta en particular.
+16. Los usuarios podran ver su última publicación al principio de la sección general
 
 # Roadmap (future features) :pushpin:
  1. Los Usuarios podran comentar publicaciones de amigos
- 2. Los usuarios podran ver su última publicación al principio de la sección general
- 3. Los usuarios podran comentar con fotos las publicaciones de sus amigos
- 4. Los usuarios podran hacer privados sus perfiles
- 5. Los usuarios podran postear videos en los comentarios
+ 2. Los usuarios podran comentar con fotos las publicaciones de sus amigos
+ 3. Los usuarios podran hacer privados sus perfiles
+ 4. Los usuarios podran postear videos en los comentarios
  
 
 # Data Model :pushpin:
