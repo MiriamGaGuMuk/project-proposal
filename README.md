@@ -61,39 +61,25 @@
 - GET #/foodmap
  
 
-##### API Routes
-* LogIn
-- GET ~/api/v1/users
-- GET ~/api/v1/users/:userId
-- GET ~/api/v1/users/:userId/profiles
-- GET ~/api/v1/:userId/comments
-- GET ~/api/v1/users/:userId/commets/:commentId
-- GET ~/api/v1/user/:userId/recipes
-- GET ~/api/v1/user/:userId/recipie/:recipieId
-
-- GET ~/api/v1/comments
-- GET ~/api/v1/comments/commentId
-- PUT ~/api/v1/comments/commentId
-- DELETE ~/api/v1/comments/commentId
-- POST ~api/v1/comments/:commentId/likes
-
-
-- POST #/api/v1/auth/logout
-- POST #/api/v1/auth/login
-- POTS #/api/v1/auth/signup
-
-- GET ~/api/v1/recipes
-- GET ~/api/v1/recipes/:recipieId
-- GET ~/api/v1/recipes/:recipieId/photos
-- PUT ~/api/v1/recipes/:recipieId
-- DELETE ~/api/v1/recipes/:recipietId
-- PUT ~/api/v1/recipes/:recipieId/photos
-- DELETE ~/api/v1/recipes/:recipieId/photos
-
-- DELETE ~/api/v1/users/:userId/profiles/:profileId
-
-
-
+|API Routes|
+|-|-|-|
+|GET ~/api/v1/users| Todos los Usuarios|
+|GET ~/api/v1/users/:userId| Usuario por Id| 
+|GET ~/api/v1/users/:userId/profiles| Perfil de un usuario |
+|GET ~/api/v1/user/:userId/recipes| Recetas de un usuario |
+|GET ~/api/v1/user/:userId/recipie/:recipieId| Receta en particular de un usuario |
+|Auth Routes|
+|-|-|-|
+|POST #/api/v1/auth/logout| Log out Usuario|
+|POST #/api/v1/auth/login| log in usuario |
+|POTS #/api/v1/auth/signup| Registro de Usuario|
+|Recipies|
+|GET ~/api/v1/recipes| Todas las recetas |
+|GET ~/api/v1/recipes/:recipieId/photos|Foto de una receta en particular|
+|PUT ~/api/v1/recipes/:recipieId|Actualizar una receta en particular|
+|DELETE ~/api/v1/recipes/:recipietId| Borrar una receta en particular|
+|PUT ~/api/v1/recipes/:recipieId/photos| Actualizar la foto de una receta en particular|
+|DELETE ~/api/v1/recipes/:recipieId/photos|Borrar la foto de une receta en particular|
 
 |Category|Name|Points|
 |-|-|-|
