@@ -92,9 +92,12 @@
 Para utilizar Greener puedes acceder desde tu cuenta de Google o Facebook clickando en los botones correspondientes o bien puedes registrarte con otra cuenta de correo e iniciar sesión. Comparte publicaciones con tus amigos escribiendo en el input y dando click en publicar. Así mismo:
  * Si estás logueado con una cuenta que registraste en tu nombre aparecerá tu mail.
  * Es necesario escribir "algo" para poder publicar.
- * Puedes eliminar tus posts o los de tus amigos dando click en BORRAR.
- * Puedes editar tus posts o los de tus amigos dando click en el botón "EDITAR"; después edita tu texto y da click en el botón GUARDAR para actualizar tu post. 
+ * Puedes eliminar tus posts dando click en BORRAR.
+ * Puedes editar tus posts dando click en el botón "EDITAR"; después edita tu texto y da click en el botón GUARDAR para actualizar tu post. 
  * Para ver el conteo de favoritos en la publicación y agregar un favorito, da click en el corazón.
+ * Si no quieres cocinar te damos la opción de buscar los restaurantes mas cercanos sin tener que dejar la página.
+ * Podrás ver a más detalle y más legible una receta que alguien compartió
+ * Tendrás en tu perfil todos los post que haz hecho.
  * Si deseas salir de la aplicación da click en "LOG OUT". 
  * Disfruta y ayuda a tus amigos a cambiar su alimentación por una vida más saludable. Agrega a "Greener" contenido que tus amigos y tú comparten sobre alimentación saludable con recetas sencillas.
 
@@ -167,13 +170,10 @@ Así mismo planteamos los objetivos de los usuarios con respecto al producto uti
 
 **Prototipado**
 
-A continuación mostraremos el primer sketch, pensando primero en el dispositivo móvil, pues es más cómodo para el usuario accesar a través de éste a una app.
+A continuación mostraremos el primer sketch, pensando primero en el dispositivo móvil, pues es más cómodo para el usuario accesar a través de éste a una app. La primera imágen es el flujo de la aplicaión.
 
-<img align="center" src="imagenes-ux/LogIn.png"/>
-<img align="center" src="imagenes-ux/LogInMail.png"/>
-<img align="center" src="imagenes-ux/facebooklogin.png"/>
-<img align="center" src="imagenes-ux/Perfil.png"/>
-<img align="center" src="imagenes-ux/perfilSidebar.png"/>
+
+<img align="center" src="imagenes-ux/FlujoDeApp.png"/>
 
 
 <img align="center" src="imagenes-ux/6.jpeg"/> 
