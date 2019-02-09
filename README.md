@@ -61,8 +61,8 @@
 - GET #/foodmap
  
 
-|API Routes| Info|
-|-|-|-|
+|API Routes| Verb | Rote |Info|
+|-|-|-|-|
 ||GET | ~/api/v1/users |Todos los Usuarios|
 ||GET | ~/api/v1/users/:userId | Usuario por Id| 
 ||GET | ~/api/v1/users/:userId/profiles | Perfil de un usuario |
