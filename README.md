@@ -35,9 +35,10 @@
 8. User Profile view (Perfil usuraio individual)(Podrá actaulizar y borrar todos sus comentarios hechos)
 12. Sólo el ADMIN puede borrar comentarios de otros Usuarios
 13. Los usuarios pueden quitar sus likes
-14. Vista de recomendaciones de restaurantes cercanos
+14. Vista de recomendaciones de restaurantes cercanos (FoodMap)
 15. Los ususarios podran ver una vista detallada de una recerta en particular.
 16. Los usuarios podran ver su última publicación al principio de la sección general
+17. Los usuarios recibiran un correo de bienvenida. (Twilio)
 
 # Roadmap (future features) :pushpin:
  1. Los Usuarios podran comentar publicaciones de amigos
@@ -48,7 +49,7 @@
 
 # Data Model :pushpin:
 
-<img align="center" src="imagenes-ux/database.png"/>
+<img align="center" src="imagenes-ux/DataBase.png"/>
 
 ### Routes :pushpin:
 ##### Client Routes
@@ -169,23 +170,13 @@ Así mismo planteamos los objetivos de los usuarios con respecto al producto uti
 * :bust_in_silhouette:Yo usuari@ quiero poder registrarme en 'Greener'
 * :bust_in_silhouette:Yo usuario quiero poder iniciar sesión con facebook o google para ser parte de 'Greener'
 * :bust_in_silhouette:Yo como usuari@ logueado quiero poder hacer publicaciones para comunicarme con personas como yo que busquen una mejora en su alimentación sin tener mucho tiempo para preparar alimentos. 
-* :bust_in_silhouette:Yo como usuari@ quiero poder contribuir y recibir  tips o recetas, videos y fotos, para ayudarnos a mejorar nuestra alimentación, lo cual nos brindará motivación y una mejor calidad de vida
+* :bust_in_silhouette:Yo como usuari@ quiero poder contribuir y recibir  tips o recetas, fotos, para ayudarnos a mejorar nuestra alimentación, lo cual nos brindará motivación y una mejor calidad de vida
 * :bust_in_silhouette:Yo como usuari@ quiero poder dar  y recibir like a las publicaciones de mis amigos.
 * :bust_in_silhouette:Yo como usuari@ quiero poder ver cuántos  likes/Estrella (o similar) tiene una publicación.
-* :bust_in_silhouette:Yo usuari@ quiero poder eliminar un post/publicación específico.
+* :bust_in_silhouette:Yo usuari@ quiero poder eliminar un post/publicación propio en específico.
 * :bust_in_silhouette:Yo usuari@ quiero darle click en el botón editar, cambiar el texto, imagen, post e imagen, o lo que contenga la publicación. 
 * :bust_in_silhouette:Yo usuari@ quiero que al recargar la página pueda ver los textos editados y publicaciones anteriores (persistencia).
 * :bust_in_silhouette:Yo usiari@ quiero poder cerrar sesión.
-
-Como un segundo alcance se plantearon las siguientes hisotrias:
-
-* :bust_in_silhouette:Yo usuari@ quiero poder agregar nuevos amigos
-* :bust_in_silhouette:Yo usuari@ quiero poder aceptar solicitudes de amigos
-* :bust_in_silhouette:Yo usuari@ quiero poder eliminar amigos
-* :bust_in_silhouette:Yo usuari@ quiero poder poder filtrar los posts sólo para mis amigos y para todo público.
-* :bust_in_silhouette:Yo usuari@ quiero poder publicar solo para mis amigos
-* :bust_in_silhouette:Yo usuari@ quiero poder poder publicar públicamente, visible para todos los usuarios de la red social.
-* :bust_in_silhouette:Yo usuari@ quiero poder enviar mensajes privados a mis amigos.
 
 # Ideación :pushpin:
 
