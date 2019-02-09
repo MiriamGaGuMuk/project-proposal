@@ -69,7 +69,6 @@
 ||GET ~/api/v1/user/:userId/recipes| Recetas de un usuario |
 ||GET ~/api/v1/user/:userId/recipie/:recipieId| Receta en particular de un usuario |
 ||Auth Routes|
-|-|-|-|
 ||POST #/api/v1/auth/logout| Log out Usuario|
 ||POST #/api/v1/auth/login| log in usuario |
 ||POTS #/api/v1/auth/signup| Registro de Usuario|
