@@ -216,8 +216,12 @@ También hemos  incorporado el color blanco como fondo; éste es asociado mayorm
 ### 1 Harvest 
 ¿Cuáles son los mejores productos para una determinada época del año? ¿Cómo almacenar la comida? Harvest permite responder a estas preguntas, ofreciendo trucos y respuestas a 120 frutas y verduras, con el objetivo de que los usuarios las conozcan con profundidad. Disponible sólo en plataformas iOS.
 
+<img align="center" src="imagenes-ux/selecting-2Harvest.png"/>
+
 ### 2 MySugr
 Ideada para ususarios con diabetes, MySugr Logbook es una app que permitirá llevar un registro del azúcar que consumimos con nuestros alimentos. En educación podemos usarla de un modo universal, para que nuestros alumnos investiguen las cantidades de azúcar que implican ciertas comidas, o para descubrir cómo mejorar su alimentación en cuanto a esta variable. La encontramos en iOS y en Android.
+
+<img align="center" src="imagenes-ux/mysugr-logbook-phone.png"/>
 
 ### 3 True Food Shoppers Guide
 Aunque destinada a un público adulto que quiera tener una buena alimentación en su día a día, True Food Shoppers Guide puede ser un complemento genial en algunas actividades de Secundaria y Bachillerato: permite conocer los ingredientes con los que se realizan ciertos alimentos, y si éstos han sido modificados genéricamente. Es gratuita y está disponible en iOS y en Android.
@@ -261,8 +265,8 @@ Y terminamos con Eat & Move-O-Matic, la más “gamificada” de todas las que h
 En su mayoria, las aplicaciones usan colores y lenguaje muy sencillo de entender, su interfaz es muy organica y contrastante, usan de fondo el blanco para que los colores, verde, naranja o rojo, que son los que más se usan, no sean tan agresivos.
 
 <img align="center" src="imagenes-ux/benchmark1.png"/>
-<img align="center" src="imagenes-ux/benchmark2.jpg"/>
-<img align="center" src="imagenes-ux/mysugr-logbook-phone.png"/>
-<img align="center" src="imagenes-ux/selecting-2Harvest.png"/>
+
+
+
 
   
