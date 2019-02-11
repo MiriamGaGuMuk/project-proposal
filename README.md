@@ -53,7 +53,7 @@
 
 ### Routes :pushpin:
 ##### Client Routes
-
+- GET #/
 - POST #/login
 - GET #/grenner
 - GET #/profile
