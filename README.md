@@ -55,7 +55,7 @@
 ##### Client Routes
 
 - POST #/login
-- GET #/
+- GET #/grenner
 - GET #/profile
 - GET #/recipe
 - GET #/foodmap
