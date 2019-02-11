@@ -28,17 +28,17 @@
 1. User Log In View
 2. Perfil principal para todos los usuarios (Users View)
 3. User puede comentar en el perfil principal (Profile view)
-4. User puede cambiara el comentario
-5. User puede borrar el comentario
-6. User puede dar like a todos los comentarios
-7. User puede agregar fotos a su comentario
-8. User Profile view (Perfil usuraio individual)(Podrá actaulizar y borrar todos sus comentarios hechos)
-12. Sólo el ADMIN puede borrar comentarios de otros Usuarios
+4. User puede cambiara su receta
+5. User puede borrar sue receta
+6. User puede dar like a todas las recetas
+7. User puede agregar fotos a su receta
+8. User Profile view (Perfil usuraio individual)(Podrá actaulizar y borrar todas sus recetas hechos)
+12. Sólo el ADMIN puede borrar recetas de otros Usuarios
 13. Los usuarios pueden quitar sus likes
 14. Vista de recomendaciones de restaurantes cercanos (FoodMap)
 15. Los ususarios podran ver una vista detallada de una recerta en particular.
-16. Los usuarios podran ver su última publicación al principio de la sección general
-17. Los usuarios recibiran un correo de bienvenida. (Twilio)
+16. Los usuarios podran ver su última receta al principio de la sección general.
+17. Los usuarios recibiran un correo de bienvenida. (Twilio).
 
 # Roadmap (future features) :pushpin:
  1. Los Usuarios podran comentar publicaciones de amigos
